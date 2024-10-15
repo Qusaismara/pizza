@@ -1,0 +1,21 @@
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-direction: column;
+    gap :10px;
+   align-items: center;
+}
+.pizza .row .element{
+text-align: center;
+width: 50%;
+
+
+}
+.pizza .row .element img{
+width: 680px;
+
+}
